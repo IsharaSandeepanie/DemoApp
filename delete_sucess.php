@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -13,20 +12,20 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="page-header clearfix">
-						<div class="alert alert-warning" role="alert">
-							<strong>Your record is deleted sucessfully....</strong>
-							<button type="button" class="close" data-dismiss="alert" aria-label="Close">
-								<span aria-hidden="true">&times;</span>
-							</button>
-						</div>
+			<div class="alert alert-warning" role="alert">
+				<strong>Your record is deleted sucessfully....</strong>
+				<button type="button" class="close" data-dismiss="alert" aria-label="Close">
+					<span aria-hidden="true">&times;</span>
+				</button>
+			</div>
                     </div>
-					<div>
-						<p class='lead'><em>No records were found.</em></p>
-					</div>
-					<div>
-						<a href="home.php" class="btn btn-default pull-left">OK</a>
-					</div>
-				</div>
+	            <div>
+			<p class='lead'><em>No records were found.</em></p>
+		     </div>
+		     <div>
+			<a href="home.php" class="btn btn-default pull-left">OK</a>
+		     </div>
+		</div>
             </div>        
         </div>
     </div>
