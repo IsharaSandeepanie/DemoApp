@@ -1,0 +1,46 @@
+.wrapper{
+            width: 800px;
+            margin: 0 auto;
+        }
+
+.page-header h2{
+            margin-top: 0;
+		}
+		
+table tr td:last-child a{
+            margin-right: 15px;
+        }
+
+.container-auto{
+			width:80%;
+            margin: 0 auto;
+		}
+
+table{
+    width: 100%;
+    margin: 10px auto;
+    border-collapse: collapse;
+    text-align: left;
+}
+tr {
+    border-bottom: 1px solid #cbcbcb;
+}
+th, td{
+    border: none;
+    height: 30px;
+    padding: 2px;
+}
+tr:hover {
+    background: #F5F5F5;
+}
+
+.ws {
+    display: flex;
+    justify-content: space-beteen;
+}
+
+h4{
+	text-align:left;
+	float:left;
+}
+
