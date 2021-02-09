@@ -11,7 +11,7 @@ This is implemented using HTML, CSS and PHP. I have used MySQL as the database a
 4. Create tables in database. (localhost/foldername/createTable.php)
 5. Finally run the application. (localhost/foldername)
 
-You can see the implemented application using http://demotestapp.epizy.com/
+You can see the implemented application using test site http://demotestapp.epizy.com/
 
 # References
 https://www.edureka.co/blog/how-to-run-a-php-program-in-xampp/
