@@ -174,7 +174,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
                 <div class="col-md-12">
                     <div class="page-header">
 						<ul class="nav nav-pills nav-justified">
-							<li role="presentation"><a href="home.php">Home</a></li>
+							<li role="presentation"><a href="index.php">Home</a></li>
 							<li role="presentation" class="active"><a href="create.php">Add</a></li>
 						</ul>
                     </div>
