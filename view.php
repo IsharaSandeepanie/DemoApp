@@ -12,10 +12,10 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="page-header clearfix">
-						<ul class="nav nav-pills nav-justified">
-							<li role="presentation"><a href="home.php">Home</a></li>
-							<li role="presentation" ><a href="create.php">Add</a></li>
-						</ul>
+			<ul class="nav nav-pills nav-justified">
+				<li role="presentation"><a href="index.php">Home</a></li>
+				<li role="presentation" ><a href="create.php">Add</a></li>
+			</ul>
                     </div>
                     <?php
                     // Include config file
