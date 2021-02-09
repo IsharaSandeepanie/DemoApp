@@ -7,7 +7,7 @@ This is implemented using HTML, CSS and PHP. I have used MySQL as the database a
 # Building
 1. Install MySQL and XAMPP in your machine.
 2. Download or clone the repository to a local folder in c:/xampp/htdocs
-3. Create the database. (localhost/foldername/db.php)
+3. Create the database. Give your MySQL username and password correctly. (localhost/foldername/db.php)
 4. Create tables in database. (localhost/foldername/createTable.php)
 5. Finally run the application. (localhost/foldername)
 
